@@ -68,15 +68,10 @@ The **Pharmacy Management System** is a desktop-based application developed usin
 - **Report Generation:** Automated sales and inventory reports.
 - **Cloud Storage Support:** Synchronization with online databases.
 
-## 👥 Team Members
-
-- [Your Name]
-- [Your Team Members]
-
 ## 📚 References
 
 - Java Swing Documentation: [https://docs.oracle.com/javase/tutorial/uiswing/](https://docs.oracle.com/javase/tutorial/uiswing/)
-- GitHub Repository: [Your GitHub Repo Link]
+- GitHub Repository: [[Your GitHub Repo Link](https://github.com/omar-28-2/Pharmacy-app)]
 
 ---
 
